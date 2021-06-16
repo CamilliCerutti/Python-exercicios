@@ -1,2 +1,2 @@
-# Exercicios de Python(curso em video)
- Exercicios de python que desenvolvi atraves do Curso em Video.
+# Exercicios de Python
+Exercicios que desenvolvi durante cursos que fiz, como forma de por em pratica aquilo que era ensinado.
