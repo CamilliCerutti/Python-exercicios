@@ -1,6 +1,5 @@
 # TÁBUADA v1
-# Faça um programa que leia um número Inteiro
-# qualquer e mostre na tela a sua tabuada.
+# Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
 
 x = int(input('Digite um número: '))
 

@@ -1,6 +1,5 @@
 # CONVERSOR DE MEDIDAS
-# Escreva um programa que leia um valor em metros
-# e o exiba convertido em centímetros e milímetros.
+# Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 
 x = float(input('Digite uma distancia em metros: '))
 
