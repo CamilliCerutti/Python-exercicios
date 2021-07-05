@@ -4,6 +4,7 @@ import random
 
 #Gerar as palavras
 
+url ='https://www.ime.usp.br/~pf/dicios/br-utf8.txt'
 
 resposta = requests.get(url)
 u = resposta.content.splitlines()
